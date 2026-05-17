@@ -193,6 +193,8 @@ Found a bug or have a feature request? Please [open an issue] with:
 
 **Amrit Raj**
 
+---
+
 <div align="center">
 
 **⭐ Star this repository if it helped you visualize your Codeforces journey! ⭐**
