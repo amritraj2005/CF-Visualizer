@@ -4,7 +4,7 @@
 
 ## 🚀 Live Demo
 
-Experience the visualizer live: [**Codeforces Visualizer**]
+Experience the visualizer live: [**Codeforces Visualizer**] https://cf-visualizer-theta.vercel.app/
 
 ---
 
@@ -108,7 +108,7 @@ npm install -g pnpm
 1. **Clone the repository:**
 
    ```bash
-   git clone 
+   git clone https://github.com/amritraj2005/CF-Visualizer
    cd cf-visualizer
    ```
 
